@@ -1,0 +1,61 @@
+---
+---
+@import "../css/variables";
+@import '../_sass/bootstrap';
+@import '../_sass/syntax-highlighting';
+
+/**
+ * Cornell Identity and search
+ */
+body {
+  border-top:4px solid #b31b1b;
+}
+#cu-identity-wrap {font-family:verdana,arial,helvetica,sans-serif;font-size:63.125%;color:#222;height:75px;}
+#cu-identity-wrap #cu-identity-content{position:relative;margin:0 auto;height:75px;background:url(../images/layout/cornell.gif) no-repeat;}
+#cu-identity-wrap #cu-identity-content a{position:absolute;display:block;border:none;text-indent:-1000em;text-decoration:none;}
+#cu-identity-wrap #cu-identity-content a#insignia-link{width:80px;height:88px;}
+#cu-identity-wrap #cu-identity-content img{display:none;}
+#searchWrap{overflow:hidden;height:32px;display:none;background-color:#b31b1b;font-family:Arial,Geneva,sans-serif;}#searchWrap #searchInnerWrap{width:100%;max-width:1140px;margin:0 auto;}
+#searchWrap #searchForm{max-width:1140px;background-color:#b31b1b;overflow:hidden;width:100%;float:right;height:30px;margin-right:76px;text-align:right;padding-top:0px;margin-top:0px}
+#searchWrap #searchForm .searchLabel{text-align:right;color:#fff;font-size:12px;text-transform:uppercase;display:inline-block;margin-right:10px;padding-top:7px;line-height:normal;vertical-align:auto;font-weight:700;font-weight:normal;}
+#searchWrap #searchForm #go{float:right;background:#800;color:#FFF;border:none;font-size:12px;line-height:12px;padding:5px 6px;margin-top:2px;margin-left:5px;font-weight:400;border-radius:0;text-shadow:none;margin-bottom:20px;height:22px;}
+#searchWrap #searchForm #search-form-query{border:none;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:13px;line-height:13px;color:#fff;float:right;width:200px;height:22px;margin-top:2px;background-color:#990f0f;padding:0 4px;}
+#searchWrap #searchForm #search-form-query:focus,#searchWrap #searchForm #search-form-query input[type=email]:focus,#searchWrap #searchForm #search-form-query input[type=password]:focus,#searchWrap #searchForm #search-form-query input[type=text]:focus,#searchWrap #searchForm #search-form-query textarea:focus{-webkit-box-shadow:0 0 3px rgba(0,0,0,0.2);box-shadow:0 0 3px rgba(0,0,0,0.2);outline:0;}
+#searchClickWrap{position:absolute;right:50%;width:1140px;top:4px;z-index:10;}
+#searchClickWrap #searchClickInnerWrap{position:relative;right:-50%;}
+#searchClickWrap #searchClickInnerWrap #searchClick{background-color:#b31b1b;cursor:pointer;float:right;color:#fff;padding:4px 10px 8px 10px;}
+
+
+.menu-margin {
+    margin-bottom: 70px;
+}
+
+@media (max-width:1200px){
+    #searchClickWrap,#searchInnerWrap{width:960px !important;}
+    #searchForm{width:320px !important;margin-right:60px !important;}
+    #search-form-query{width:100px !important;}
+}
+@media (max-width:992px){
+    #searchClickWrap,#searchInnerWrap{width:100% !important;margin-right:15px;}
+    #searchForm{margin-right:75px !important;}
+}
+
+.site-footer {
+    margin-top: 150px;
+    border-top: 1px solid rgb(232, 232, 232);
+}
+
+// Icons
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: #666;
+        }
+    }
+}

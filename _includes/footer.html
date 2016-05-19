@@ -1,38 +1,37 @@
-<footer class="site-footer">
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
 
-  <div class="wrapper">
+                <div class="col-xs-12 col-md-4">
+                    <h4>Contact</h4>
+                    <a href="mailto:{{ site.data.global.email }}">{{ site.data.global.email }}</a>
+                </div>
 
-    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
+                <div class="col-xs-12 col-md-4">
+                    <h4>Social</h4>
+                      {% if site.data.global.github_username %}
+                        {% include icon-github.html username=site.data.global.github_username %}
+                      {% endif %}
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>Contact</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+                      {% if site.data.global.twitter_username %}
+                        {% include icon-twitter.html username=site.data.global.twitter_username %}
+                      {% endif %}
+                    </ul>
+                </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
+                <div class="col-xs-12 col-md-4">
+                    <h4>Mission</h4>
+                    <p>{{ site.data.global.description }}</p>
+                </div>
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
+            </div>
+        </div>
+    </footer>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="{{ site.data.global.url }}/js/power.js"></script>
 
-  </div>
-
-</footer>
+    </body>
+</html>

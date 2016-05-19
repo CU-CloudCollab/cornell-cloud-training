@@ -1,18 +1,30 @@
 ---
-layout: page
+layout: default
 title: Contribute
-permalink: /contribute/
+permalink: /contribute
 ---
 
-See [https://jekyllrb.com/docs/quickstart/](https://jekyllrb.com/docs/quickstart/)
+Get started with Jekyll -- [https://jekyllrb.com/docs/home/](https://jekyllrb.com/docs/home/).
 
-Roughly...
+**Install Jekyll & Bundler**
+{% highlight bash %}
+gem install jekyll bundler
+{% endhighlight %}
 
-```
-gem install jekyll
+**Clone the Repository**
+These instructions should really be about fork for future contributions. https://help.github.com/articles/fork-a-repo/
+
+{% highlight bash %}
 git clone git@github.com:CU-CloudCollab/cornell-cloud-training.git
 cd cornell-cloud-training
-jekyll serve
-```
 
-Visit [http://localhost:4000/](http://localhost:4000/)
+\# if you do not have admin access, install to local path
+bundle install --path vendor/bundle
+bundle exec jekyll serve
+{% endhighlight %}
+
+**View Results**
+Visit [http://localhost:4000/](http://localhost:4000/) in your browser.
+
+**Submit a Pull Request**
+If you want to ...

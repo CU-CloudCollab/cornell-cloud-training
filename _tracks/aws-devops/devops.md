@@ -23,3 +23,10 @@ permalink: /training-track/aws-devops/
 * [Intrusion Detection in the Cloud](https://www.youtube.com/watch?v=WUQNeMhkaco) (video)
 * Enterprise Cloud Security via DevSecOps 2.0
 * Learn How to Hackproof Your Cloud Using Native AWS Tools
+
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}

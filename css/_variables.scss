@@ -1,0 +1,20 @@
+$brand-primary: #b31b1b;
+
+$navbar-default-color:             #2C6C8C;
+$navbar-default-bg:                #eee;
+$navbar-default-border:            darken($navbar-default-bg, 6.5%) !default;
+
+// Navbar links
+$navbar-default-link-color:                #2C6C8C;
+$navbar-default-link-hover-color:          darken($navbar-default-link-color, 6.5%);
+$navbar-default-link-active-bg:            darken($navbar-default-bg, 6.5%) !default;
+
+// Navbar brand label
+$navbar-default-brand-color:               $navbar-default-link-color !default;
+$navbar-default-brand-hover-color:         darken($navbar-default-brand-color, 10%) !default;
+$navbar-default-brand-hover-bg:            transparent !default;
+
+// Navbar toggle
+$navbar-default-toggle-hover-bg:           #ddd !default;
+$navbar-default-toggle-icon-bar-bg:        #888 !default;
+$navbar-default-toggle-border-color:       #ddd !default;

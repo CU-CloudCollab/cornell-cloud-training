@@ -1,18 +1,15 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+permalink: /about
 ---
-Content has been curated...
 
-<h3>C4 Steering Group Membership</h3>
+Initial content was curated by the C4 Steering Group.
+
+### C4 Steering Group
+
 <ul>
 {% for member in site.data.members-c4 %}
-  <li>
-    {{ member.name }}
-    {% if member.github %}
-    {% include icon-github.html username=member.github %}
-    {% endif %}
-  </li>
-{% endfor %}
+<li>{{ member.name }} {% if member.github %} {% include icon-github.html username=member.github %}{% endif %}</li>
+    {% endfor %}
 </ul>

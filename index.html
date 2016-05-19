@@ -1,22 +1,15 @@
 ---
 layout: default
+title: Introduction
 ---
-
-<h1 class="post-title">Training Opportunities</h1>
-
-<h2>Introduction</h2>
 
 <p>Why we're doing this...</p>
 
-<br>
-<div class="home">
-  <h2>Learning Tracks</h2>
+<h3>Learning Tracks</h3>
 
-  {% assign tracksSorted = site.tracks | sort: 'order' %}
-  <ul>
-    {% for item in tracksSorted %}
-        <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-</div>
+{% assign tracksSorted = site.tracks | sort: 'order' %}
+<ul>
+{% for item in tracksSorted %}
+    <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
