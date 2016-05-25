@@ -1,4 +1,25 @@
----
-layout: default
----
-{{ content }}
+{% include header.html %}
+
+<main>
+    <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-9 col-md-push-3">
+            <header class="post-header">
+              <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+            </header>
+            {{ content }}
+          </div>
+          <div class="col-xs-12 col-md-3 col-md-pull-9">
+            <h4>Learning Tracks</h4>
+            {% assign tracksSorted = site.tracks | sort: 'order' %}
+            <ol>
+            {% for item in tracksSorted %}
+                <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+            {% endfor %}
+            </ol>
+          </div>
+        </div>
+    </div>
+</main>
+
+{% include footer.html %}
