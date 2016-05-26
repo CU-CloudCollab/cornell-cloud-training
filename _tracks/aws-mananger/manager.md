@@ -19,7 +19,8 @@ What are we paying for/what options
 #### Content
 
 ##### Micro Track
-* Track 1
+* What is an EC2 instance?
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Px7ZPLq4AOU" frameborder="0" allowfullscreen></iframe>
 * Track 2 ..
 
 
