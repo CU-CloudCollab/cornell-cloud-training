@@ -34,8 +34,8 @@ permalink: /training-track/aws-manager-finance/
 
 
 
-#### Understanding Billing and Investiments
-* Cloudcheckr
+#### Understanding Billing and Investments
+* [Cloudcheckr](http://support.cloudcheckr.com/what-is-cloudcheckr/)
 * Resources
 * Tagging
 * Differences to on premise
@@ -50,6 +50,9 @@ permalink: /training-track/aws-manager-finance/
 * [Pricing Whitepaper](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
 * [Introduction to Cloud Economics](https://d0.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
 * [AWS Simply Monthly Calculator](http://calculator.s3.amazonaws.com/index.html)
+
+#### Managing AWS
+* [10 Lessons from 10yrs of AWS](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html)
 
 
 #### Security
