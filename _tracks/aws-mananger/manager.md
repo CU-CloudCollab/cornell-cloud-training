@@ -20,25 +20,11 @@ permalink: /training-track/aws-manager-finance/
 
 
 #### Micro Track - Introductory Videos
-<div id="sliderFrame">
-    <div id="slider">
-      <a class="video" href="https://www.youtube.com/watch?v=mZ5H8sn_2ZI">
-          <img src="{{ site.data.global.url }}/images/layout/aws.png"  alt="What is an AWS and Cloud Computing?"/>
-      </a>
-      <a class="video" href="https://www.youtube.com/watch?v=Px7ZPLq4AOU">
-          <img src="{{ site.data.global.url }}/images/layout/ec2.png"  alt="What is an EC2 instance?"/>
-      </a>
-      <a class="video" href="http://www.youtube.com/watch?v=AQ-3aRhvFwU">
-          <img src="{{ site.data.global.url }}/images/layout/s3.jpg" alt="What is S3?"/>
-      </a>
-      <a class="video" href="https://www.youtube.com/watch?v=Kz1zmyHw9G0">
-          <img src="{{ site.data.global.url }}/images/layout/rds.png" alt="What is RDS?"/>
-      </a>
-  </div>
-  <br/>
-  <br/>
-  <br/>
-</div>
+* https://www.youtube.com/watch?v=mZ5H8sn_2ZI
+* https://www.youtube.com/watch?v=Px7ZPLq4AOU
+* http://www.youtube.com/watch?v=AQ-3aRhvFwU
+* https://www.youtube.com/watch?v=Kz1zmyHw9G0
+
 
 #### Understanding Billing and Investments
 * [Cloudcheckr](http://support.cloudcheckr.com/what-is-cloudcheckr/)
