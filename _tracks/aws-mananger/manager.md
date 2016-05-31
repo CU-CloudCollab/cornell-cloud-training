@@ -8,8 +8,7 @@ permalink: /training-track/aws-manager-finance/
 ---
 
 > The track attempts to give a brief introduction to critical services in aws
-> while also going in depth into the Economics of AWS and how to keep track of investments  
-> in the cloud.
+> while also going in depth into the Economics of AWS and how to keep track of investments in the cloud.
 
 **Target Audience:**
 
