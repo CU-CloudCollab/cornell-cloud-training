@@ -19,20 +19,25 @@ permalink: /training-track/aws-manager-finance/
 **Prerequisites:** None
 
 
+#### Micro Track - Introductory Videos
+<div id="sliderFrame">
+    <div id="slider">
+      <a class="video" href="https://www.youtube.com/watch?v=Px7ZPLq4AOU">
+          <img src="{{ site.data.global.url }}/images/layout/ec2.png"  alt="What is an EC2 instance?" style="width:700px;height:306px;"/>
+      </a>
+      <a class="video" href="http://www.youtube.com/watch?v=AQ-3aRhvFwU">
+          <img src="{{ site.data.global.url }}/images/layout/s3.jpg" alt="What is S3?" style="width:700px;height:306px;"/>
+      </a>
 
-#### Micro Track
-* What is an EC2 instance?
-<iframe width="420" height="315" src="https://www.youtube.com/embed/gPx7ZPLq4AOU" frameborder="0" allowfullscreen></iframe>
+      <a class="video" href="https://www.youtube.com/watch?v=Kz1zmyHw9G0">
+          <img src="{{ site.data.global.url }}/images/layout/rds.png" alt="What is RDS?" style="width:700px;height:306px;"/>
+      </a>
+  </div>
+  <br/>
+  <br/>
+  <br/>
 
-
-* What is S3?
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Yyraql9A_Rc" frameborder="0" allowfullscreen></iframe>
-
-
-* What is RDS?
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Kz1zmyHw9G0" frameborder="0" allowfullscreen></iframe>
-
-
+</div>
 
 #### Understanding Billing and Investments
 * [Cloudcheckr](http://support.cloudcheckr.com/what-is-cloudcheckr/)
@@ -46,7 +51,7 @@ permalink: /training-track/aws-manager-finance/
 
 
 #### AWS Economics
-* [Principles video](https://aws.amazon.com/pricing/)
+* [Principles video](https://aws.amazon.com/pricing/) (Video)
 * [Pricing Whitepaper](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
 * [Introduction to Cloud Economics](https://d0.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
 * [AWS Simply Monthly Calculator](http://calculator.s3.amazonaws.com/index.html)
