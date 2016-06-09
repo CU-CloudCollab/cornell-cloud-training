@@ -2,7 +2,7 @@
 title: "IT@Cornell - Cloud Services"
 email: "cloud-support@cornell.edu"
 #url: "http://cornell-cloud-training.s3.amazonaws.com/" # the base hostname & protocol for your site
-url: "http://training.cloud.cit.cornell.edu/"
+url: "http://training.cloud.cit.cornell.edu"
 twitter_username: ~
 github_username:  CU-CloudCollab
 
