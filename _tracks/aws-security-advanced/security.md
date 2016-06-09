@@ -18,37 +18,37 @@ Security principles... Keeping your systems and applications secure and out of t
 **Prerequisites:** Basic knowledge of AWS and IT security concepts
 
 #### Introduction to AWS Security
-* [https://d0.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf] Introduction to AWS Security (white paper)
-* [https://www.youtube.com/watch?v=U632-ND7dKQ] Shared Responsibility Model (video)
+* [Introduction to AWS Security](https://d0.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf) (white paper)
+* [Shared Responsibility Model](https://www.youtube.com/watch?v=U632-ND7dKQ) (video)
 
 ### Intro to Compliance
-* [https://aws.amazon.com/compliance/hipaa-compliance/] HIPPA Compliance (article)
-* [https://aws.amazon.com/compliance/pci-dss-level-1-faqs/] PCI-DSS Compliance (article)
-* [https://d0.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf] AWS Auditing Checklist (white paper)
+* [HIPPA Compliance](https://aws.amazon.com/compliance/hipaa-compliance/) (article)
+* [PCI-DSS Compliance](https://aws.amazon.com/compliance/pci-dss-level-1-faqs/) (article)
+* [AWS Auditing Checklist](https://d0.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf) (white paper)
 
 ### Security Architecture
-* [https://www.youtube.com/watch?v=IT-krK_wI3o] Architecting for End-to-End Security in the Enterprise (video)
-* [https://www.youtube.com/watch?v=nzSrRvADh6g] AWS EC2 Networking Deep Dive and Best Practices (video)
-* [https://www.youtube.com/watch?v=HexrVfuIY1k] VPC Deep Dive (video)
-* [https://www.youtube.com/watch?v=OT2y3DzMEmQ] Building a DDoS-Resilient Architecture (video)
+* [Architecting for End-to-End Security in the Enterprise](https://www.youtube.com/watch?v=IT-krK_wI3o) (video)
+* [AWS EC2 Networking Deep Dive and Best Practices](https://www.youtube.com/watch?v=nzSrRvADh6g) (video)
+* [VPC Deep Dive](https://www.youtube.com/watch?v=HexrVfuIY1k) (video)
+* [Building a DDoS-Resilient Architecture](https://www.youtube.com/watch?v=OT2y3DzMEmQ) (video)
 
 ### Security Operations
 
 #### Key Management / Encryption
-* [https://www.youtube.com/watch?v=8AODa_AazY4] SSL with AWS (video)
-* [http://media.amazonwebservices.com/AWS_Securing_Data_at_Rest_with_Encryption.pdf] Securing Data at Rest with Encryption (white paper)
-* [https://www.youtube.com/watch?v=bqIYI3mDsd4] KMS/CloudHSM deep dive (video)
-* [https://www.youtube.com/watch?v=bqIYI3mDsd4] KMS/CloudHSM deep dive 2 (video)
+* [SSL with AWS ](https://www.youtube.com/watch?v=8AODa_AazY4) (video)
+* [Securing Data at Rest with Encryption](http://media.amazonwebservices.com/AWS_Securing_Data_at_Rest_with_Encryption.pdf) (white paper)
+* [KMS/CloudHSM deep dive](https://www.youtube.com/watch?v=bqIYI3mDsd4) (video)
+* [KMS/CloudHSM deep dive 2](https://www.youtube.com/watch?v=bqIYI3mDsd4) (video)
 
 #### IDS
-* [https://www.youtube.com/watch?v=WUQNeMhkaco] Intrusion Detection in the Cloud (video)
+* [Intrusion Detection in the Cloud](https://www.youtube.com/watch?v=WUQNeMhkaco) (video)
 
 #### Incident Response
-* [https://www.youtube.com/watch?v=nzSrRvADh6g] Incident Response in the Cloud (video)
+* [Incident Response in the Cloud ](https://www.youtube.com/watch?v=nzSrRvADh6g) (video)
 
 #### Identity and Access Management
-* [https://www.youtube.com/watch?v=Y3uSYpFJVvQ] IAM deep dive (video)
+* [IAM deep dive](https://www.youtube.com/watch?v=Y3uSYpFJVvQ) (video)
 
 #### Auditing
-* [https://www.youtube.com/watch?v=BJprWgompq0] CloudTrail deep dive (video)
-* [http://aws.amazon.com/config/] AWS Config
+* [CloudTrail deep dive](https://www.youtube.com/watch?v=BJprWgompq0) (video)
+* [AWS Config](http://aws.amazon.com/config/) 
