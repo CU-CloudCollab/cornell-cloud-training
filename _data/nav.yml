@@ -1,6 +1,6 @@
 main:
     - { url: '/about', text: 'About' }
-    - { url: 'http://blogs.cornell.edu/cloudification/', text: 'Tech Blog'}
+    - { url: 'http://blogs.cornell.edu/cloudification/tech-blog/', text: 'Tech Blog'}
     - { url: '/contribute', text: 'Contribute' }
     - { url: '/learning-tracks', text: 'Learning Tracks' }
     #- { url: 'https://github.com/CU-CloudCollab', text: '<i class="fa fa-github" aria-hidden="true"></i> GitHub' }
