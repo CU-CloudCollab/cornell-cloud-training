@@ -64,12 +64,12 @@ permalink: /training-track/aws-manager-finance/
 
 #### AWS Economics
 * [Principles video](https://aws.amazon.com/pricing/) (Video)
-* [Pricing Whitepaper](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
-* [Introduction to Cloud Economics](https://d0.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
-* [AWS Simply Monthly Calculator](http://calculator.s3.amazonaws.com/index.html)
+* [Pricing Whitepaper](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf) (pdf)
+* [Introduction to Cloud Economics](https://d0.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf) (pdf)
+* [AWS Simply Monthly Calculator](http://calculator.s3.amazonaws.com/index.html) (calculator)
 
 #### Managing AWS
-* [10 Lessons from 10yrs of AWS](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html)
+* [10 Lessons from ten years of AWS](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) (blog)
 
 
 #### Security
