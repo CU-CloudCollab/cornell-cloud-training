@@ -7,7 +7,7 @@ categories: aws security
 permalink: /training-track/aws-security-advanced/
 ---
 
-Security principles... Keeping your systems and applications secure and out of the newspaper.
+> Security principles... Keeping your systems and applications secure and out of the newspaper.
 
 **Target Audience:**
 
@@ -51,4 +51,4 @@ Security principles... Keeping your systems and applications secure and out of t
 
 #### Auditing
 * [CloudTrail deep dive](https://www.youtube.com/watch?v=BJprWgompq0) (video)
-* [AWS Config](http://aws.amazon.com/config/) 
+* [AWS Config](http://aws.amazon.com/config/)
