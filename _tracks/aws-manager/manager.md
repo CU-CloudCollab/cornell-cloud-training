@@ -15,7 +15,6 @@ permalink: /training-track/aws-manager-finance/
 **Prerequisites:** None
 
 #### Micro Track - Introductory Videos
-
 <div class="container">
     <div class="col-md-8">
         <div id="myCarousel" class="carousel slide">
