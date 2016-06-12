@@ -57,10 +57,8 @@ permalink: /training-track/aws-manager-finance/
 * Tagging
 * Differences to on premise
 
-
 #### Monitoring using Cloudcheckr and reports
 * Record Nicole’s CloudCheckr presentation
-
 
 #### AWS Economics
 * [Principles video](https://aws.amazon.com/pricing/) (Video)

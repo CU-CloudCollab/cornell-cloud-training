@@ -19,7 +19,7 @@ permalink: /training-track/aws-devops/
 
 ##### Continuous Delivery
 * [In Praise of the ./go Script - Part I](https://www.thoughtworks.com/insights/blog/praise-go-script-part-i) (blog)
-* [The 5 Rules of an Awesome Dev Toolchain](http://blog.thepete.net/blog/2014/03/28/\_-attributes-of-an-amazing-dev-toolchain/) (blog)
+* [The 5 Rules of an Awesome Dev Toolchain](http://blog.thepete.net/blog/2014/03/28/_-attributes-of-an-amazing-dev-toolchain/) (blog)
 
 ##### Continuous Integration
 * [Continuous Integration Best Practices: Vision and Reality](http://electric-cloud.com/plugins/continuous-integration/) (blog)
