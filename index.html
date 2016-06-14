@@ -5,11 +5,46 @@ title: Introduction
 
 <p>Why we're doing this...</p>
 
-<h3>Learning Tracks</h3>
 
-{% assign tracksSorted = site.tracks | sort: 'order' %}
-<ol>
-{% for item in tracksSorted %}
-    <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
-{% endfor %}
-</ol>
+<div class="row">
+  <div class="col-xs-12 col-md-push-4 col-md-4">
+    {% assign tracksSorted = site.tracks | sort: 'order' %}
+
+    <h3>Self-Paced Learning Tracks</h3>
+    <p>Curated resources for self-paced learning.</p>
+
+    <ol>
+    {% for item in tracksSorted %}
+        <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+    {% endfor %}
+    </ol>
+  </div>
+
+  <div class="col-xs-12 col-md-pull-4 col-md-4">
+    <h3>On Campus Trainings</h3>
+
+    <p>For more information, visit <a href="https://confluence.cornell.edu/display/CLOUD/Cloud+Services+Training">Cloud Services Training</a> (confluence)</p>
+
+    <h5>AWS</h5>
+    <ul>
+      <li>June 13, 2016 - <a href="https://confluence.cornell.edu/display/CLOUD/Big+Data+on+AWS">Big Data on AWS</a></li>
+      <li>July 20, 2016 - <a href="https://confluence.cornell.edu/display/CLOUD/AWS+Redshift">Redshift</a></li>
+      <li>July 21, 2016 - <a href="https://confluence.cornell.edu/display/CLOUD/AWS+Essentials+101+ES2%2C+RDS%2CECS">AWS Essentials 101 ES2, RDS,ECS</a></li>
+      <li>August 17, 2016 - DEVOPS: Code pipeline, Code Commit, Code Deploy</li>
+      <li>September 21, 2016 - Mobile Hub</li>
+      <li>October 19, 2016 - IoT/Elexa</li>
+      <li>November 16, 2016 - RDS</li>
+    </ul>
+  </div>
+
+  <div class="col-xs-12 col-md-4">
+    <h3>Paid Trainings</h3>
+    <p>Some services may be available at free or reduced rates. Contact <a href="mailto:cloud-support@cornell.edu">cloud-support@cornell.edu</a> for more information.</p>
+
+      <ul>
+        <li><a href="https://linuxacademy.com/amazon-web-services" target="_blank">Linux Academy</a></li>
+      </ul>
+
+  </div>
+
+</div>
