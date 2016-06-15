@@ -37,4 +37,4 @@ permalink: /training-track/aws-manager-finance/
 * [10 Lessons from ten years of AWS](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) (blog)
 
 #### Security
-test
+test test
