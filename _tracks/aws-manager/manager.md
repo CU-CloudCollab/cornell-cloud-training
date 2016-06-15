@@ -15,40 +15,8 @@ permalink: /training-track/aws-manager-finance/
 **Prerequisites:** None
 
 #### Micro Track - Introductory Videos
-<div class="container">
-    <div class="col-md-8">
-        <div id="myCarousel" class="carousel slide">
-            <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1" class=""></li>
-                <li data-target="#myCarousel" data-slide-to="2" class=""></li>
-                <li data-target="#myCarousel" data-slide-to="3" class=""></li>
-            </ol>
-            <div class="carousel-inner">
-                <div class="item active">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/mZ5H8sn_2ZI"
-                    frameborder="0" allowfullscreen=""></iframe>
-                </div>
-                <div class="item">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Px7ZPLq4AOU"
-                    frameborder="0" allowfullscreen=""></iframe>
-                </div>
-                <div class="item">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/AQ-3aRhvFwU"
-                    frameborder="0" allowfullscreen=""></iframe>
-                </div>
-                <div class="item">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Kz1zmyHw9G0"
-                    frameborder="0" allowfullscreen=""></iframe>
-                </div>
-            </div>	<a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
 
-            <a
-            class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
-        </div>
-    </div>
-</div>
-
+{% youtube_slider mZ5H8sn_2ZI,Px7ZPLq4AOU,AQ-3aRhvFwU,Kz1zmyHw9G0 %}
 
 #### Understanding Billing and Investments
 * [Cloudcheckr](http://support.cloudcheckr.com/what-is-cloudcheckr/)
