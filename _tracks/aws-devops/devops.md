@@ -24,21 +24,21 @@ permalink: /training-track/aws-devops/
 ##### Continuous Integration
 * [Continuous Integration Best Practices: Vision and Reality](http://electric-cloud.com/plugins/continuous-integration/) (blog)
 * Jenkins
-  * [Linux Academy Jenkins Build Automation](https://linuxacademy.com/cp/modules/view/id/42) (video)
+  * [Linux Academy Jenkins Build Automation](https://linuxacademy.com/cp/modules/view/id/42) (video - login required)
   * [Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/Use+Jenkins) (wiki)
 
 ##### Configuration Management
 * Chef
-  * [Linux Academy Course](https://linuxacademy.com/cp/learningplans/view/id/16355) (course)
+  * [Linux Academy Course](https://linuxacademy.com/cp/learningplans/view/id/16355) (course - login required)
   * [Online Training](https://learn.chef.io/) (various)
 * Puppet
-  * [Linux Academy Course](https://linuxacademy.com/cp/modules/view/id/34) (course)
+  * [Linux Academy Course](https://linuxacademy.com/cp/modules/view/id/34) (course - login required)
   * [Online Training](https://learn.puppet.com/) (various)
 
 ##### Docker
 * [Docker in 5 mins](https://www.youtube.com/watch?v=Av2Umb6nELU) (video)
 * [Docker Self Paced Training](http://training.docker.com/self-paced-training) (video)
-* [LinuxAcademy Docker Deep Dive](https://linuxacademy.com/cp/modules/view/id/33) (course)
+* [LinuxAcademy Docker Deep Dive](https://linuxacademy.com/cp/modules/view/id/33) (course - login required)
 
 ### AWS - In Depth
 

@@ -19,9 +19,8 @@ permalink: /training-track/aws-manager-finance/
 
 #### Understanding Billing and Investments
 * [Cloudcheckr](http://support.cloudcheckr.com/what-is-cloudcheckr/)
-* Resources
-* Tagging
-* Differences to on premise
+* [Resources](https://aws.amazon.com/blogs/aws/resource-groups-and-tagging/)
+* [5 Effective Tagging Strategies](https://www.botmetric.com/blog/5-effective-tagging-strategies-for-aws-cloud-cost-allocation/)
 
 #### Monitoring using Cloudcheckr and reports
 * Record Nicole’s CloudCheckr presentation
@@ -36,3 +35,5 @@ permalink: /training-track/aws-manager-finance/
 * [10 Lessons from ten years of AWS](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) (blog)
 
 #### Security
+* [Introduction to cloud security](https://aws.amazon.com/security/introduction-to-cloud-security/) (AWS Official Documentation)
+* [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) (AWS Official Documentation)
