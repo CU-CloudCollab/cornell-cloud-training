@@ -59,3 +59,4 @@ DevOps
 
 ### Additional Learning Opportunities
 * [Linux Academy - Amazon Web Services](https://linuxacademy.com/amazon-web-services) (paid offering)
+* [A Cloud Guru](https://acloud.guru/courses) (paid offering)
