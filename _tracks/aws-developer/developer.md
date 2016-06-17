@@ -32,6 +32,34 @@ Simple Storage Service
 Stateless Apps
 : ... you should design applications that are stateless, meaning they do not store user assets or resources on the file system... <sup>2</sup>
 
+#### Basic website hosting with S3
+
+Basic websites without dynamic content (e.g., php, coldfusion) can be hosted using S3:
+
+* [Getting Started: Hosting a Static Website on Amazon Web Services](https://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html) (article)
+* [Static Website in S3 Using Certificate Manager & Cloudfront](https://www.youtube.com/watch?v=5uS_rQjQ4Hw) (video)
+* [Static Sites using AWS S3, CloudFront, and Route 53](https://sysadmincasts.com/episodes/48-static-sites-using-aws-s3-cloudfront-and-route-53-1-5) (video)
+* [Setup AWS Route 53 to work with Cornell managed DNS](https://blogs.cornell.edu/cloudification/2016/05/17/how-to-setup-aws-route53-to-work-with-cornell-managed-dns/) (article)
+
+#### Web application hosting with Elastic Beanstalk
+
+For more complex websites and applications that have dynamic content, Elastic Beanstalk is a simple way to move to AWS:
+
+* [Getting Started Using Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html) (article)
+* [Elastic Beanstalk Setup and Deployment](https://www.youtube.com/watch?v=rvxucBBDlPQ) (video)
+* [Deploy, Manage, and Scale Your Apps with OpsWorks and Elastic Beanstalk](https://www.youtube.com/watch?v=WNLIsqjkvu8) (video)
+* [Elastic Beanstalk Design Considerations](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.concepts.design.html) (article)
+* [Language- and Framework-specific Tutorials and Samples](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/tutorials.html) (various)
+* [Developer Guide](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) (various)
+
+#### More cloud application design concepts and principles
+
+The Elastic Beanstalk design considerations touch on principles of modern cloud application design - more resources:
+
+* [AWS - Architecting for the Cloud: Best Practices](https://s3.amazonaws.com/awsmedia/AWS_Cloud_Best_Practices.pdf) (whitepaper)
+* [IBM - Best practices for deploying your apps in the cloud](https://www.ibm.com/developerworks/cloud/library/cl-best-practices-deploying-apps-in-cloud/index.html) (whitepaper)
+* [The Twelve-Factor App](http://12factor.net/) (manifesto)
+* [Twelve-Factor Apps in Plain English](http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/) (blog)
 
 ### Learn More
 
