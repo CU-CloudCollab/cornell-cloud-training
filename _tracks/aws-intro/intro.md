@@ -43,13 +43,14 @@ DevOps
 * [Introduction to Amazon RDS](https://www.youtube.com/watch?v=yjH10T3Miag) (video)
     * In more depth - [Intro to AWS: Database Services](https://www.youtube.com/watch?v=eKyS9rvbj40) (long video)
 * [Introduction to Amazon VPC](https://www.youtube.com/watch?v=jcyZmj6Ywh4) (video)
-* [Intro to Amazon S3](https://www.youtube.com/watch?v=Yyraql9A_Rc) (video)
+* [Introduction to Amazon S3](https://www.youtube.com/watch?v=Yyraql9A_Rc) (video)
 
 ### Security
 
 #### Overview
 * [The Security of the AWS Cloud](https://www.youtube.com/watch?feature=player_embedded&v=OEK7mHn4JLs) (video)
 * [Overview of Security Processes](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf) (whitepaper)
+* Cornell guidelines for [Regulated Data Use](http://blogs.cornell.edu/cloudification/regulated-data-use-guidelines/) in AWS
 
 #### Shared Responsibility Model
 * [Shared Responsibility Model Intro Video](https://www.youtube.com/watch?v=U632-ND7dKQ) (video)

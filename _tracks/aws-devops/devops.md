@@ -9,7 +9,7 @@ permalink: /training-track/aws-devops/
 <!-- * TOC
 {:toc} -->
 
-*DevOps techniques*
+> DevOps techniques and approaches in the AWS Cloud.
 
 **Target Audience:** Targeted at DevOps engineers; developers; system administrators.
 

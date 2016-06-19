@@ -5,11 +5,11 @@ permalink: /other-resources
 ---
 
 #### Paid Sites
-* Linux Academy
-* acloud.guru
+* [Linux Academy](https://linuxacademy.com/amazon-web-services)
+* [A Cloud Guru](https://acloud.guru)
 
 #### Books
-* Phoenix Project
+* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) (amazon.com)
 
 #### Code Sites
 
