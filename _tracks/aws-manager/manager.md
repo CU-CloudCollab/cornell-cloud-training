@@ -40,7 +40,7 @@ CloudCheckr
 * [Introduction to Cloud Economics](https://d0.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf) (pdf)
 * [AWS Simply Monthly Calculator](http://calculator.s3.amazonaws.com/index.html) (calculator)
 
-### Case Studies Powered by AWS
+#### Case Studies Powered by AWS
 * [Netflix](https://aws.amazon.com/solutions/case-studies/netflix/?pg=main-customer-success-page) (AWS Official)
 * [US Department of State](https://aws.amazon.com/solutions/case-studies/exchangesconnect/) (AWS Official)
 * [Time Inc.](https://aws.amazon.com/solutions/case-studies/time-inc/?pg=main-customer-success-page) (AWS Official)
@@ -48,7 +48,7 @@ CloudCheckr
 
 #### Managing AWS
 * [10 Lessons from ten years of AWS](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) (blog)
-* [AWS Marketplace](https://aws.amazon.com/documentation/marketplace/)(AWS Official Documentation)
+* [AWS Marketplace](https://aws.amazon.com/documentation/marketplace/) (AWS Official Documentation)
 * [AWS Support](https://aws.amazon.com/documentation/aws-support/) (AWS Official Documentation)
 
 #### Security
