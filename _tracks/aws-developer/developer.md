@@ -61,15 +61,19 @@ The Elastic Beanstalk design considerations touch on principles of modern cloud 
 * [The Twelve-Factor App](http://12factor.net/) (manifesto)
 * [Twelve-Factor Apps in Plain English](http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/) (blog)
 
-### Learn More
+#### Learn More
 
 * [AWS Development and Test](https://aws.amazon.com/dev-test/)
 
-### Cornell Resources
+#### Cornell Resources
 
-* Cornell Docker Images
+* [Cornell Docker Images](dtr.cucloud.net) (CU Registry)
 
-
+#### SDKs and Examples
+* [Ruby](https://github.com/awslabs/aws-ruby-sample) (Github & Examples)
+* [Python](https://github.com/awslabs/aws-python-sample) (Github & Examples)
+* [Java](https://github.com/awslabs/aws-java-sample) (Github & Examples)
+* [.Net](https://github.com/awslabs/aws-sdk-net-samples) (Github & Examples)
 
 ---
 
