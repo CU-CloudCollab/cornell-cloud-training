@@ -48,6 +48,8 @@ CloudCheckr
 
 #### Managing AWS
 * [10 Lessons from ten years of AWS](http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html) (blog)
+* [AWS Marketplace](https://aws.amazon.com/documentation/marketplace/)(AWS Official Documentation)
+* [AWS Support](https://aws.amazon.com/documentation/aws-support/) (AWS Official Documentation)
 
 #### Security
 * [Introduction to cloud security](https://aws.amazon.com/security/introduction-to-cloud-security/) (AWS Official Documentation)
