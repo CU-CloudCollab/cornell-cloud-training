@@ -27,14 +27,12 @@ CloudCheckr
 {% youtube_slider mZ5H8sn_2ZI,Px7ZPLq4AOU,AQ-3aRhvFwU,Kz1zmyHw9G0 %}
 
 #### Understanding Billing and Investments
-{% youtube DpAPUOddVH4 %}
-
 * [What is CloudCheckr?](http://support.cloudcheckr.com/what-is-cloudcheckr/) (article)
 * [Resource Groups and Tagging for AWS](https://aws.amazon.com/blogs/aws/resource-groups-and-tagging/) (blog)
 * [5 Effective Tagging Strategies](https://www.botmetric.com/blog/5-effective-tagging-strategies-for-aws-cloud-cost-allocation/) (blog)
 
 #### Monitoring using Cloudcheckr and reports
-* Record Nicole’s CloudCheckr presentation
+{% youtube DpAPUOddVH4 %}
 
 #### AWS Economics
 * [Introduction to AWS Pricing](https://www.youtube.com/watch?v=op_9NfAVedY) (video)
