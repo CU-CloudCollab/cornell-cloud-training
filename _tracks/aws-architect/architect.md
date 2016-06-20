@@ -49,4 +49,6 @@ Containers
 ### Resources for AWS Solutions Architect Associate Exam
 * [A Guide to AWS Certification Exams](https://cloudacademy.com/ebooks/guide-aws-certification-exams-2/) (eBook)
 * [AWS Solutions Architect Certification](https://cloudacademy.com/ebooks/aws-solutions-architect-certification-1/) (eBook)
+* [A Cloud Guru - Solutions Architect Associate Course](https://acloud.guru/learn/aws-certified-solutions-architect-associate) (paid offering)
+* [Linux Academy - Solutions Architect Associate Course](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-solutions-architect-associate) (paid offering)
 * [10 useful aws cli commands](http://cloudacademy.com/blog/aws-cli-10-useful-commands/) (blog)
