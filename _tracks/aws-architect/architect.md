@@ -26,6 +26,10 @@ Containers
 : Are an operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel
 
 
+### Introduction to Architecture
+* [Well-Architected Framework](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) (white paper)
+* [Cloud Architecture Best Practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf) (white paper)
+
 ### Creating Infrastructure
 * [Introduction to AWS CloudFormation](https://www.youtube.com/watch?v=b-gwhQ6GPFQ) (video)
 * [Zero to Sixty: AWS CloudFormation](https://www.youtube.com/watch?v=-0ELfN-kb7g) (video)
