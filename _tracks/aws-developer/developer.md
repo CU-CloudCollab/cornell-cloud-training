@@ -63,7 +63,7 @@ The Elastic Beanstalk design considerations touch on principles of modern cloud 
 
 ### Learn More
 
-* Development and Test - https://aws.amazon.com/dev-test/
+* Development and Test - (https://aws.amazon.com/dev-test/)
 
 ### Cornell Resources
 
