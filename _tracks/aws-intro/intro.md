@@ -15,7 +15,6 @@ permalink: /training-track/aws-overview/
 **Prerequisites:** None
 
 ### Key Terms
-
 {:dl .dl-horizontal}
 Infrastructure as code
 : The process of managing and provisioning computing infrastructure (processes, bare-metal servers, virtual servers, etc.) and their configuration through machine-processable definition files, rather than physical hardware configuration or the use of interactive configuration tools.
