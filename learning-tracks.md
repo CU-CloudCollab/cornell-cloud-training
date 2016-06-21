@@ -5,7 +5,8 @@ permalink: /learning-tracks
 ---
 
 {% assign tracksSorted = site.tracks | sort: 'order' %}
-
+<ol>
 {% for item in tracksSorted %}
     <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
 {% endfor %}
+</ol>
