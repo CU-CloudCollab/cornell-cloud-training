@@ -25,8 +25,7 @@ end
 Elastic Beanstalk
 : This product allows the developer to deploy code to AWS without having to worry about infrastructure design.  Elastic Beanstalk will manage the compute nodes, load balancers, logging, alarms and even patching of the infrastructure.  Using this environment is a great way for a developer to get their feet wet in AWS.
 
-Simple Storage Service
-(S3)
+Simple Storage Service (S3)
 : Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable cloud storage. Amazon S3 is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. With Amazon S3, you pay only for the storage you actually use. There is no minimum fee and no setup cost.<sup>1</sup>
 
 Stateless Apps
