@@ -1,10 +1,10 @@
 ---
 layout: track
 order: 1
-title:  "AWS Overview/General"
-date:   2016-05-08 16:27:47 -0400
-categories: aws cloud overview
-permalink: /training-track/aws-overview/
+title:  "AWS Introduction"
+date:   2016-07-01 04:00:00 -0400
+categories: aws cloud overview introduction
+permalink: /training-track/aws-introduction/
 ---
 
 > Provides an introduction and overview of AWS offerings to level-set all IT staff to opportunities provided by the cloud.

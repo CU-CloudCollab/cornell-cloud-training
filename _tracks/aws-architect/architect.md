@@ -1,8 +1,8 @@
 ---
 layout: track
-order: 4
+order: 6
 title:  "AWS Architect"
-date:   2016-05-08 16:27:47 -0400
+date:   2016-07-01 04:00:00 -0400
 categories: aws architect
 permalink: /training-track/aws-architect/
 ---
@@ -11,7 +11,7 @@ permalink: /training-track/aws-architect/
 
 **Target Audience:** Developers & DevOps with intermediate experience with AWS.
 
-**Prerequisites:** Competency with materials covered in tracks #2 & #3 - AWS Developer materials.
+**Prerequisites:** Competency with materials covered in tracks: [AWS Developer](../aws-developer/) and [AWS DevOps](../aws-devops/).
 
 ### Key Terms
 

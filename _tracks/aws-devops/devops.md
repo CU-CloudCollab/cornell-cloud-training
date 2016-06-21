@@ -1,8 +1,8 @@
 ---
 layout: track
-order: 2
+order: 4
 title:  "AWS DevOps"
-date:   2016-05-08 16:27:47 -0400
+date:   2016-07-01 04:00:00 -0400
 categories: aws devops
 permalink: /training-track/aws-devops/
 ---

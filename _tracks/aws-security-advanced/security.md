@@ -1,8 +1,8 @@
 ---
 layout: track
-order: 6
+order: 5
 title:  "AWS Advanced Security"
-date:   2016-05-08 16:27:47 -0400
+date:   2016-07-01 04:00:00 -0400
 categories: aws security
 permalink: /training-track/aws-security-advanced/
 ---

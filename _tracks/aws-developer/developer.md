@@ -2,7 +2,7 @@
 layout: track
 order: 3
 title:  "AWS Developer"
-date:   2016-05-08 16:27:47 -0400
+date:   2016-07-01 04:00:00 -0400
 categories: aws developer
 permalink: /training-track/aws-developer/
 ---
@@ -16,7 +16,7 @@ end
 
 **Target Audience:** Developers
 
-**Prerequisites:** Competency with materials covered in [Track: AWS Overview/General](../aws-overview/)
+**Prerequisites:** Competency with materials covered in [Track: AWS Introduction](../aws-introduction/)
 
 
 ### Key Terms
