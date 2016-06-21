@@ -26,7 +26,6 @@ CloudCheckr
 ### Micro Track - Introductory Videos
 {% youtube mZ5H8sn_2ZI %}
 {% youtube Px7ZPLq4AOU %}
-{% youtube AQ-3aRhvFwU %}
 {% youtube Kz1zmyHw9G0 %}
 
 #### Understanding Billing and Investments
