@@ -60,9 +60,3 @@ DevOps
 #### Shared Responsibility Model
 * [Shared Responsibility Model Intro Video](https://www.youtube.com/watch?v=U632-ND7dKQ) (video)
 * [Shared Responsibility Model Documentation](https://aws.amazon.com/compliance/shared-responsibility-model/) (article)
-
----
-
-### Additional Learning Opportunities
-* [Linux Academy - Amazon Web Services](https://linuxacademy.com/amazon-web-services) (paid offering)
-* [A Cloud Guru](https://acloud.guru/courses) (paid offering)
