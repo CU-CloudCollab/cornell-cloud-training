@@ -62,11 +62,9 @@ The Elastic Beanstalk design considerations touch on principles of modern cloud 
 * [Twelve-Factor Apps in Plain English](http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/) (blog)
 
 #### Learn More
-
 * [AWS Development and Test](https://aws.amazon.com/dev-test/)
 
 #### Cornell Resources
-
 * [Cornell Docker Images](dtr.cucloud.net) (CU Registry)
 
 #### SDKs and Examples
@@ -83,12 +81,12 @@ The Elastic Beanstalk design considerations touch on principles of modern cloud 
 * [Eclipse Toolkit](https://aws.amazon.com/documentation/awstoolkiteclipse/) (Amazon HowTo)
 * [Visual Studio Toolkit](https://aws.amazon.com/visualstudio/) (Amazon HowTo)
 
-
 #### AWS Blogs for developers
 * [.Net Community](http://blogs.aws.amazon.com/net/) (blog)
 * [Ruby](http://ruby.awsblog.com/) (blog)
 * [Java](http://java.awsblog.com/) (blog)
 * [Application Management](http://blogs.aws.amazon.com/application-management) (blog)
+
 ---
 
 ##### References
