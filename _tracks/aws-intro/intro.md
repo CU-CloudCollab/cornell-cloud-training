@@ -44,10 +44,12 @@ DevOps
 * [Introduction to Amazon VPC](https://www.youtube.com/watch?v=jcyZmj6Ywh4) (video)
 * [Introduction to Amazon S3](https://www.youtube.com/watch?v=Yyraql9A_Rc) (video)
 
-### Security
 
 #### Cornell Resources
 * [Getting Started at Cornell](http://blogs.cornell.edu/cloudification/getting-started/) (blog)
+
+
+### Security
 
 #### Overview
 * [The Security of the AWS Cloud](https://www.youtube.com/watch?feature=player_embedded&v=OEK7mHn4JLs) (video)
