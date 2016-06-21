@@ -17,6 +17,17 @@
                 <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
             {% endfor %}
             </ol>
+
+            <hr>
+
+            <h4>Cornell Resources</h4>
+
+            <ul>
+            {% for resource in site.data.all-tracks-cornell-resources %}
+              <li><a href="{{ resource.url }}" target="_blank">{{ resource.text }}</a></li>
+            {% endfor %}
+            </ul>
+
           </div>
         </div>
     </div>

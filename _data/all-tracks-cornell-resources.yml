@@ -1,0 +1,4 @@
+- { url: 'http://blogs.cornell.edu/cloudification/getting-started/', text: 'Getting Started at Cornell' }
+- { url: 'https://confluence.cornell.edu/display/CLOUD/Cloud+Service+Matrix', text: 'Cloud Service Matrix'}
+- { url: 'https://confluence.cornell.edu/display/CLOUD/Cloudification+Services+Home', text: 'Cloudification Services'}
+- { url: 'http://blogs.cornell.edu/cloudification/tech-blog/', text: 'Cloudification - Tech Blog'}
