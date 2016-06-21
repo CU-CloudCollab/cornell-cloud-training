@@ -37,6 +37,7 @@ CloudCheckr
 #### AWS Economics
 * [Introduction to AWS Pricing](https://www.youtube.com/watch?v=op_9NfAVedY) (video)
 * [Pricing Whitepaper](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf) (pdf)
+* [Consolidated Billing Discount Application](http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/con-bill-blended-rates.html)
 * [Introduction to Cloud Economics](https://d0.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf) (pdf)
 * [AWS Simply Monthly Calculator](http://calculator.s3.amazonaws.com/index.html) (calculator)
 
