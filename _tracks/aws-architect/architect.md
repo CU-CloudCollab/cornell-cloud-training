@@ -14,17 +14,21 @@ permalink: /training-track/aws-architect/
 **Prerequisites:** Competency with materials covered in tracks #2 & #3 - AWS Developer materials.
 
 ### Key Terms
+
 {:dl .dl-horizontal}
-Recovery Point Objective (RPO)
+Recovery Point
+Objective (RPO)
 : It is the maximum targeted period in which data might be lost from an IT service due to a major incident.
 
-Recovery Time Objective (RTO)
+Recovery Time
+Objective (RTO)
 : This is is the targeted duration of time and a service level within which a business process must be restored after a disaster (or disruption) in order to avoid unacceptable consequences associated with a break in business continuity.
 
 Containers
 : Are an operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel
 
-Elastic Container Service (ECS)
+Elastic Container
+Service (ECS)
 : is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
 
 Elastic Beanstalk
