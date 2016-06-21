@@ -3,7 +3,6 @@ layout: default
 title: Learning Tracks
 permalink: /learning-tracks
 ---
-<ul>
 
 {% assign tracksSorted = site.tracks | sort: 'order' %}
 
