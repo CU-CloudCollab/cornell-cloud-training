@@ -75,6 +75,20 @@ The Elastic Beanstalk design considerations touch on principles of modern cloud 
 * [Java](https://github.com/awslabs/aws-java-sample) (Github & Examples)
 * [.Net](https://github.com/awslabs/aws-sdk-net-samples) (Github & Examples)
 
+#### Command line tools
+* [AWS CLI for Mac/Linux](https://github.com/Wolg/awesome-swift) (Github & Examples)
+* [AWS CLI for Windows (Powershell)](https://aws.amazon.com/documentation/powershell/) (Amazon HowTo)
+
+#### IDE Toolkits
+* [Eclipse Toolkit](https://aws.amazon.com/documentation/awstoolkiteclipse/) (Amazon HowTo)
+* [Visual Studio Toolkit](https://aws.amazon.com/visualstudio/) (Amazon HowTo)
+
+
+#### AWS Blogs for developers
+* [.Net Community](http://blogs.aws.amazon.com/net/) (blog)
+* [Ruby](http://ruby.awsblog.com/) (blog)
+* [Java](http://java.awsblog.com/) (blog)
+* [Application Management](http://blogs.aws.amazon.com/application-management) (blog)
 ---
 
 ##### References
