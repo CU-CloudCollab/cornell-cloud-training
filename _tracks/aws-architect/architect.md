@@ -14,7 +14,6 @@ permalink: /training-track/aws-architect/
 **Prerequisites:** Competency with materials covered in tracks #2 & #3 - AWS Developer materials.
 
 ### Key Terms
-
 {:dl .dl-horizontal}
 Recovery Point Objective
 : It is the maximum targeted period in which data might be lost from an IT service due to a major incident.
