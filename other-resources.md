@@ -9,11 +9,11 @@ permalink: /other-resources
 * [A Cloud Guru](https://acloud.guru)
 
 #### Books
-
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) (amazon.com)
 ![image-title-here](images/phoniex_project.jpg){:class="img-responsive"}
 
 #### Code Sites
+* [Codewars](https://www.codewars.com/)
 
 #### Cornell Resources
 * [CU CloudCollab](https://github.com/CU-CloudCollab/)
