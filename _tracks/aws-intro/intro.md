@@ -46,6 +46,9 @@ DevOps
 
 ### Security
 
+#### Cornell Resources
+* [Getting Started at Cornell](http://blogs.cornell.edu/cloudification/getting-started/) (blog)
+
 #### Overview
 * [The Security of the AWS Cloud](https://www.youtube.com/watch?feature=player_embedded&v=OEK7mHn4JLs) (video)
 * [Overview of Security Processes](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf) (whitepaper)
