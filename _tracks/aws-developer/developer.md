@@ -65,7 +65,8 @@ The Elastic Beanstalk design considerations touch on principles of modern cloud 
 * [AWS Development and Test](https://aws.amazon.com/dev-test/)
 
 #### Cornell Resources
-* [Cornell Docker Images](dtr.cucloud.net) (CU Registry)
+* [Cornell Docker Images](https://dtr.cucloud.net) (CU Registry)
+  * For access contact [cloud-support@cornell.edu](cloud-support@cornell.edu)
 
 #### SDKs and Examples
 * [Ruby](https://github.com/awslabs/aws-ruby-sample) (Github & Examples)
