@@ -13,7 +13,7 @@ permalink: /training-track/aws-architect/
 
 **Prerequisites:** Competency with materials covered in tracks: [AWS Developer](../aws-developer/) and [AWS DevOps](../aws-devops/).
 
-#### Key Terms
+### Key Terms
 
 {:dl .dl-horizontal}
 Recovery Point Objective (RPO)

@@ -17,7 +17,7 @@ permalink: /training-track/aws-security-advanced/
 
 **Prerequisites:** Basic knowledge of AWS and IT security concepts
 
-#### Key Terms
+### Key Terms
 
 {:dl .dl-horizontal}
 Intrusion Detection
@@ -30,24 +30,26 @@ System (IPS)
 
 Distributed Denial of
 Service Attack (DDoS)
-: A denial of service (DoS) attack is a malicious attempt to make a server or a network resource unavailable to users, usually by temporarily interrupting or suspending the services of a host connected to the Internet.
+: A a denial of service (DoS) attack is an attempt to make a machine or network resource unavailable to its intended users, such as to temporarily or indefinitely interrupt or suspend services of a host connected to the Internet. A distributed denial-of-service (DDoS) is where the attack source is more than one, often thousands of, unique IP addresses.
+
+
 
 #### Introduction to AWS Security
 * [Introduction to AWS Security](https://d0.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf) (white paper)
 * [Shared Responsibility Model](https://www.youtube.com/watch?v=U632-ND7dKQ) (video)
 
-### Introduction to Compliance
+#### Intro to Compliance
 * [HIPPA Compliance](https://aws.amazon.com/compliance/hipaa-compliance/) (article)
 * [PCI-DSS Compliance](https://aws.amazon.com/compliance/pci-dss-level-1-faqs/) (article)
 * [AWS Auditing Checklist](https://d0.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf) (white paper)
 
-### Security Architecture
+#### Security Architecture
 * [Architecting for End-to-End Security in the Enterprise](https://www.youtube.com/watch?v=IT-krK_wI3o) (video)
 * [AWS EC2 Networking Deep Dive and Best Practices](https://www.youtube.com/watch?v=nzSrRvADh6g) (video)
 * [VPC Deep Dive](https://www.youtube.com/watch?v=HexrVfuIY1k) (video)
 * [Building a DDoS-Resilient Architecture](https://www.youtube.com/watch?v=OT2y3DzMEmQ) (video)
 
-### Security Operations
+#### Security Operations
 
 ##### Key Management / Encryption
 * [SSL with AWS ](https://www.youtube.com/watch?v=8AODa_AazY4) (video)
