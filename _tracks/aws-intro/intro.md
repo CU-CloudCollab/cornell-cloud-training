@@ -36,27 +36,42 @@ DevOps
 ### Overview of AWS services
 
 * [What is Cloud Computing?](https://www.youtube.com/watch?v=jOhbTAU4OPI) (video)
+
+##### Compute
 * [Introduction to Amazon EC2](https://www.youtube.com/watch?v=TsRBftzZsQo) (video)
-    * In more depth - [Intro to AWS: EC2 & Compute Services](https://www.youtube.com/watch?v=XjcefjUyBvc) (long video)
-* [Introduction to Amazon Elastic Block Store](https://www.youtube.com/watch?v=DKftR47Ljvw) (video)
+* In Depth - [AWS: EC2 & Compute Services](https://www.youtube.com/watch?v=XjcefjUyBvc) (long video)
 * [Introduction to Elastic Load Balancing](https://www.youtube.com/watch?v=oEcEqN8PeeI) (video)
-* [Introduction to Amazon RDS](https://www.youtube.com/watch?v=yjH10T3Miag) (video)
-    * In more depth - [Intro to AWS: Database Services](https://www.youtube.com/watch?v=eKyS9rvbj40) (long video)
-* [Introduction to Amazon VPC](https://www.youtube.com/watch?v=jcyZmj6Ywh4) (video)
+* [Introduction to AWS Elastic Beanstalk](https://www.youtube.com/watch?v=dvmssHHBnII&list=PLhr1KZpdzukcMmx04RbtWuQ0yYOp1vQi4&index=9) (video)
+
+
+##### Storage
+* [Introduction to Amazon Elastic Block Store](https://www.youtube.com/watch?v=DKftR47Ljvw) (video)
 * [Introduction to Amazon S3](https://www.youtube.com/watch?v=Yyraql9A_Rc) (video)
 
+##### Database
+* [Introduction to Amazon RDS](https://www.youtube.com/watch?v=yjH10T3Miag) (video)
+* In Depth - [AWS: Database Services](https://www.youtube.com/watch?v=eKyS9rvbj40) (long video)
 
-#### Cornell Resources
-* [Getting Started at Cornell](http://blogs.cornell.edu/cloudification/getting-started/) (blog)
+##### Networking
+* [Introduction to Amazon VPC](https://www.youtube.com/watch?v=jcyZmj6Ywh4) (video)
+* [Introduction to Route 53](https://www.youtube.com/watch?v=Nm69KMWwH7s) (video)
 
+##### Management Tools
+* [CloudWatch FAQs](https://aws.amazon.com/cloudwatch/faqs/#general) (documentation)
+* [CloudTrail FAQs](https://aws.amazon.com/cloudtrail/faqs/#general) (documentation)
 
 ### Security
 
-#### Overview
+##### Overview
 * [The Security of the AWS Cloud](https://www.youtube.com/watch?feature=player_embedded&v=OEK7mHn4JLs) (video)
 * [Overview of Security Processes](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf) (whitepaper)
 * Cornell guidelines for [Regulated Data Use](http://blogs.cornell.edu/cloudification/regulated-data-use-guidelines/) in AWS
 
-#### Shared Responsibility Model
+##### Shared Responsibility Model
 * [Shared Responsibility Model Intro Video](https://www.youtube.com/watch?v=U632-ND7dKQ) (video)
 * [Shared Responsibility Model Documentation](https://aws.amazon.com/compliance/shared-responsibility-model/) (article)
+
+### Cornell - Moving to the Cloud
+
+* [Getting Started at Cornell](http://blogs.cornell.edu/cloudification/getting-started/) (blog)
+* Success Story - [Class Roster - Moving to AWS with Ansible](https://github.com/CU-CloudCollab/ansible-classroster-presentation/blob/master/doc/SSIT-Ansible-ClassRoster-Apr2016.pdf) (pdf)

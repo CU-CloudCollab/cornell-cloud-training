@@ -63,13 +63,13 @@ DevOps
 
 In more depth (200/300) including CLI
 
-#### CI/CD
+##### CI/CD
 * [Blue/Green deployment](https://www.youtube.com/watch?v=aX54mhZbN58) (video)
 * [Tools Overview](https://www.youtube.com/watch?v=esEFaY0FDKc) (video)
 * [Introduction to OpsWorks](https://www.youtube.com/watch?v=TPc4zdFg12M) (video)
 * [Docker and ECS in Production](https://www.youtube.com/watch?v=8zbbQkszP04&index=8&list=PLhr1KZpdzukeH9VMPbNHMCXl_NrVc1JGe) (video)
 
-#### AWS API Examples
+##### AWS API Examples
 * [https://github.com/CU-CloudCollab/aws-examples](https://github.com/CU-CloudCollab/aws-examples) (code repository)
 * [https://github.com/CU-CloudCollab/elb-logging](https://github.com/CU-CloudCollab/elb-logging) (code repository)
 * [https://github.com/CU-CloudCollab/ebs-restore](https://github.com/CU-CloudCollab/ebs-restore) (code repository)
@@ -77,7 +77,7 @@ In more depth (200/300) including CLI
 * [https://github.com/CU-CloudCollab/asg-ami-update](https://github.com/CU-CloudCollab/asg-ami-update) (code repository)
 * [https://github.com/CU-CloudCollab/ebs-expand-root-vol](https://github.com/CU-CloudCollab/ebs-expand-root-vol) (code repository)
 
-#### Security
+##### Security
 
 * [Intrusion Detection in the Cloud](https://www.youtube.com/watch?v=WUQNeMhkaco) (video)
 * [Enterprise Cloud Security via DevSecOps 2.0](https://www.youtube.com/watch?v=fqjwlKKA-V4) (video)

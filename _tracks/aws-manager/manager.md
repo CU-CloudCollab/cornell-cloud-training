@@ -24,6 +24,7 @@ CloudCheckr
 : CloudCheckr is a web-based software application that allows you to see and understand what is going on within your Amazon Web Services deployment(s). CloudCheckr provides several reports that allow you to dissect your AWS costs.
 
 ### Micro Track - Introductory Videos
+
 {% youtube mZ5H8sn_2ZI %}
 {% youtube Px7ZPLq4AOU %}
 {% youtube Kz1zmyHw9G0 %}

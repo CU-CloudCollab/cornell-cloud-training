@@ -43,7 +43,7 @@ Serverless Architecture
 * [Zero to Sixty: AWS CloudFormation](https://www.youtube.com/watch?v=-0ELfN-kb7g) (video)
 * [AWS CloudFormation Masterclass](https://www.youtube.com/watch?v=6R44BADNJA8) (video)
 
-### Intermediate & advanced Docker
+### Intermediate & Advanced Docker
 * [AWS Elastic Beanstalk and Docker ](https://www.youtube.com/watch?v=OzLXj2W2Rss) (video)
 * [Manage Docker-Enabled Apps in EC2](https://www.youtube.com/watch?v=c0EnHl3o-L4) (video)
 * [Blue/Green deployment](https://www.youtube.com/watch?v=aX54mhZbN58) (video)

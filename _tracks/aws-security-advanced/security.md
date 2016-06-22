@@ -17,11 +17,11 @@ permalink: /training-track/aws-security-advanced/
 
 **Prerequisites:** Basic knowledge of AWS and IT security concepts
 
-#### Introduction to AWS Security
+### Introduction to AWS Security
 * [Introduction to AWS Security](https://d0.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf) (white paper)
 * [Shared Responsibility Model](https://www.youtube.com/watch?v=U632-ND7dKQ) (video)
 
-### Intro to Compliance
+### Introduction to Compliance
 * [HIPPA Compliance](https://aws.amazon.com/compliance/hipaa-compliance/) (article)
 * [PCI-DSS Compliance](https://aws.amazon.com/compliance/pci-dss-level-1-faqs/) (article)
 * [AWS Auditing Checklist](https://d0.awsstatic.com/whitepapers/compliance/AWS_Auditing_Security_Checklist.pdf) (white paper)
@@ -34,21 +34,21 @@ permalink: /training-track/aws-security-advanced/
 
 ### Security Operations
 
-#### Key Management / Encryption
+##### Key Management / Encryption
 * [SSL with AWS ](https://www.youtube.com/watch?v=8AODa_AazY4) (video)
 * [Securing Data at Rest with Encryption](http://media.amazonwebservices.com/AWS_Securing_Data_at_Rest_with_Encryption.pdf) (white paper)
 * [KMS/CloudHSM deep dive](https://www.youtube.com/watch?v=bqIYI3mDsd4) (video)
 * [KMS/CloudHSM deep dive 2](https://www.youtube.com/watch?v=bqIYI3mDsd4) (video)
 
-#### IDS
+##### IDS
 * [Intrusion Detection in the Cloud](https://www.youtube.com/watch?v=WUQNeMhkaco) (video)
 
-#### Incident Response
+##### Incident Response
 * [Incident Response in the Cloud ](https://www.youtube.com/watch?v=nzSrRvADh6g) (video)
 
-#### Identity and Access Management
+##### Identity and Access Management
 * [IAM deep dive](https://www.youtube.com/watch?v=Y3uSYpFJVvQ) (video)
 
-#### Auditing
+##### Auditing
 * [CloudTrail deep dive](https://www.youtube.com/watch?v=BJprWgompq0) (video)
 * [AWS Config](http://aws.amazon.com/config/)
