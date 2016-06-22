@@ -17,7 +17,22 @@ permalink: /training-track/aws-security-advanced/
 
 **Prerequisites:** Basic knowledge of AWS and IT security concepts
 
-### Introduction to AWS Security
+#### Key Terms
+
+{:dl .dl-horizontal}
+Intrusion Detection
+System (IDS)
+: is a device or software application that monitors network or system activities for malicious activities or policy violations and produces electronic reports to a management station.
+
+Intrusion Prevention
+System (IPS)
+:  is a network security/threat prevention technology that examines network traffic flows to detect and prevent vulnerability exploits.
+
+Distributed Denial of
+Service Attack (DDoS)
+: A denial of service (DoS) attack is a malicious attempt to make a server or a network resource unavailable to users, usually by temporarily interrupting or suspending the services of a host connected to the Internet.
+
+#### Introduction to AWS Security
 * [Introduction to AWS Security](https://d0.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf) (white paper)
 * [Shared Responsibility Model](https://www.youtube.com/watch?v=U632-ND7dKQ) (video)
 

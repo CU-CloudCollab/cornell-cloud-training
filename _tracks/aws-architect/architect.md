@@ -13,7 +13,7 @@ permalink: /training-track/aws-architect/
 
 **Prerequisites:** Competency with materials covered in tracks: [AWS Developer](../aws-developer/) and [AWS DevOps](../aws-devops/).
 
-### Key Terms
+#### Key Terms
 
 {:dl .dl-horizontal}
 Recovery Point Objective (RPO)
@@ -34,37 +34,37 @@ Elastic Beanstalk
 Serverless Architecture
 :  In the cloud, server-less architectures remove the need for you to run and maintain servers to carry out traditional compute activities. For example, storage services can act as static websites, removing the need for web servers; and event services can host your code for you.
 
-### Introduction to Architecture
+#### Introduction to Architecture
 * [Well-Architected Framework](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) (white paper)
 * [Cloud Architecture Best Practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf) (white paper)
 
-### Creating Infrastructure
+#### Creating Infrastructure
 * [Introduction to AWS CloudFormation](https://www.youtube.com/watch?v=b-gwhQ6GPFQ) (video)
 * [Zero to Sixty: AWS CloudFormation](https://www.youtube.com/watch?v=-0ELfN-kb7g) (video)
 * [AWS CloudFormation Masterclass](https://www.youtube.com/watch?v=6R44BADNJA8) (video)
 
-### Intermediate & Advanced Docker
+#### Intermediate & Advanced Docker
 * [AWS Elastic Beanstalk and Docker ](https://www.youtube.com/watch?v=OzLXj2W2Rss) (video)
 * [Manage Docker-Enabled Apps in EC2](https://www.youtube.com/watch?v=c0EnHl3o-L4) (video)
 * [Blue/Green deployment](https://www.youtube.com/watch?v=aX54mhZbN58) (video)
 
-### Serverless Architecture
+#### Serverless Architecture
 * [Getting Started: Hosting a Static Website on Amazon Web Services](https://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html) (article)
 * [Static Website in S3 Using Certificate Manager & Cloudfront](https://www.youtube.com/watch?v=5uS_rQjQ4Hw) (video)
 * [Serverless Architectures](http://martinfowler.com/articles/serverless.html) (blog)
 * [Getting Started with AWS Lambda and the Serverless Cloud](https://www.youtube.com/watch?v=g5PNX-8MRt0) (video)
 
-### Disaster Recovery
+#### Disaster Recovery
 * [Deploying a Disaster Recovery Site on AWS](https://www.youtube.com/watch?v=bXrGUlgbl-s) (video)
 * [How to Enable Disaster Recovery and Migrate to AWS](https://www.youtube.com/watch?v=NoSwvJ18tMM) (video)
 
-### Security
+#### Security
 * [Architecting for End-to-End Security in the Enterprise](https://www.youtube.com/watch?v=IT-krK_wI3o) (video)
 * [AWS EC2 Networking Deep Dive and Best Practices](https://www.youtube.com/watch?v=nzSrRvADh6g) (video)
 * [Building a DDoS-Resilient Architecture](https://www.youtube.com/watch?v=OT2y3DzMEmQ) (video)
 * [VPC Deep Dive](https://www.youtube.com/watch?v=HexrVfuIY1k) (video)
 
-### Resources for AWS Solutions Architect Associate Exam
+#### Resources for AWS Solutions Architect Associate Exam
 * [A Guide to AWS Certification Exams](https://cloudacademy.com/ebooks/guide-aws-certification-exams-2/) (eBook)
 * [AWS Solutions Architect Certification](https://cloudacademy.com/ebooks/aws-solutions-architect-certification-1/) (eBook)
 * [A Cloud Guru - Solutions Architect Associate Course](https://acloud.guru/learn/aws-certified-solutions-architect-associate) (paid offering)
