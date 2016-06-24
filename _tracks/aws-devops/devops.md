@@ -55,6 +55,7 @@ DevOps
   * [Online Training](https://learn.puppet.com/) (various)
 
 ##### Docker
+* [Docker for beginners](http://prakhar.me/docker-curriculum/) (blog)
 * [Docker in 5 mins](https://www.youtube.com/watch?v=Av2Umb6nELU) (video)
 * [Docker Self Paced Training](http://training.docker.com/self-paced-training) (video)
 * [LinuxAcademy Docker Deep Dive](https://linuxacademy.com/cp/modules/view/id/33) (course - login required)
