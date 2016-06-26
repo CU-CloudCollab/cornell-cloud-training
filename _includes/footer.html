@@ -32,6 +32,18 @@
     <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <script src="{{ site.data.global.url }}/js/power.js"></script>
+    <script>
+      $(function() {
+          // open any non local links in new tab
+          $.expr[':'].external = function(obj){
+            return !obj.href.match(/^mailto\:/)
+                 && (obj.hostname != location.hostname)
+                 && !obj.href.match(/^javascript\:/)
+                 && !obj.href.match(/^$/)
+           };
+           $('a:external').attr('target', '_blank');
 
+      });
+    </script>
     </body>
 </html>
