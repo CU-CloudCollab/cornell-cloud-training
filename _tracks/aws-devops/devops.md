@@ -60,6 +60,10 @@ DevOps
 * [Docker Self Paced Training](http://training.docker.com/self-paced-training) (video)
 * [LinuxAcademy Docker Deep Dive](https://linuxacademy.com/cp/modules/view/id/33) (course - login required)
 
+##### Books
+
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) (amazon.com)
+
 ### AWS - In Depth
 
 In more depth (200/300) including CLI

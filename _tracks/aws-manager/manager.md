@@ -59,6 +59,9 @@ CloudCheckr
 * [Introduction to cloud security](https://aws.amazon.com/security/introduction-to-cloud-security/) (AWS Official Documentation)
 * [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) (AWS Official Documentation)
 
+#### Books
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) (amazon.com)
+
 #### Cornell Resources
 * Cloudification Services - [Getting Started](http://blogs.cornell.edu/cloudification/getting-started/) with an AWS account.
 

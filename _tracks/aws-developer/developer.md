@@ -62,6 +62,7 @@ The Elastic Beanstalk design considerations touch on principles of modern cloud 
 
 #### Learn More
 * [AWS Development and Test](https://aws.amazon.com/dev-test/)
+* [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges.
 
 #### Cornell Resources
 * [Cornell Docker Images](https://dtr.cucloud.net) (CU Registry)
