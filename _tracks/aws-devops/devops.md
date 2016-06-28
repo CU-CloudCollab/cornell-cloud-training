@@ -44,6 +44,7 @@ DevOps
 * [Continuous Integration Best Practices: Vision and Reality](http://electric-cloud.com/plugins/continuous-integration/) (blog)
 * Jenkins
   * [Linux Academy Jenkins Build Automation](https://linuxacademy.com/cp/modules/view/id/42) (video - login required)
+  * [How to run Jenkins in ElasticBeanstalk](http://blogs.cornell.edu/cloudification/2016/06/22/how-to-run-jenkins-in-elasticbeanstalk/) (blog) (Cornell Specific)
   * [Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/Use+Jenkins) (wiki)
 
 ##### Configuration Management
@@ -88,3 +89,6 @@ In more depth (200/300) including CLI
 * [Enterprise Cloud Security via DevSecOps 2.0](https://www.youtube.com/watch?v=fqjwlKKA-V4) (video)
 * [Learn How to Hackproof Your Cloud Using Native AWS Tools](https://www.youtube.com/watch?v=1ERy_YomoYk) (video)
 * [AWS Security Best Practices](http://media.amazonwebservices.com/AWS_Security_Best_Practices.pdf) (white paper)
+
+### Learn More
+* [The AWS Tech Challenge](https://techchallenge.amazon.com/) (interactive Challenges)
