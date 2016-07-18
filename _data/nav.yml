@@ -1,5 +1,4 @@
 main:
     - { url: '/about.html', text: 'About' }
     - { url: '/contribute.html', text: 'Contribute' }
-    - { url: '/learning-tracks.html', text: 'Learning Tracks' }
     - { url: 'http://blogs.cornell.edu/cloudification/tech-blog/', text: 'Tech Blog'}

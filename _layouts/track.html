@@ -12,11 +12,11 @@
           <div class="col-xs-12 col-md-3 col-md-pull-9">
             <h4>Learning Tracks</h4>
             {% assign tracksSorted = site.tracks | sort: 'order' %}
-            <ol>
+            <ul>
             {% for item in tracksSorted %}
                 <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
             {% endfor %}
-            </ol>
+            </ul>
 
             <hr>
 

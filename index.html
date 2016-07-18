@@ -11,13 +11,13 @@ cloud can be overwhelming. Use this site to navigate resources recommended by th
     {% assign tracksSorted = site.tracks | sort: 'order' %}
 
     <h3>Self-Paced Learning Tracks</h3>
-    <p>Curated resources for self-paced learning.</p>
+    <p>Curated resources for self-paced learning. Choose a track based on your interest or experience.</p>
 
-    <ol>
+    <ul>
     {% for item in tracksSorted %}
         <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
     {% endfor %}
-    </ol>
+    </ul>
   </div>
 
   <div class="col-xs-12 col-md-pull-4 col-md-4">
