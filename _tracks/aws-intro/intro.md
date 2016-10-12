@@ -36,6 +36,7 @@ DevOps
 ### Overview of AWS services
 
 * [What is Cloud Computing?](https://www.youtube.com/watch?v=jOhbTAU4OPI) (video)
+* [A practical guide to AWS] (https://github.com/open-guides/og-aws) (Resource Site)
 
 ##### Compute
 * [Introduction to Amazon EC2](https://www.youtube.com/watch?v=TsRBftzZsQo) (video)
